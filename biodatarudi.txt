@@ -1,0 +1,9 @@
+
+name     : rudi ismanto
+age      : 23 y.o
+sex      : Male
+Religion : Moeslem
+address  : Pulo jaya st 09, kec : beji, kel : beji
+city     : depok
+zipcode  : 16421
+
