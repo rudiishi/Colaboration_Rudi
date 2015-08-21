@@ -1,5 +1,5 @@
 
-name     : rudi ismanto
+name     : rudi ismanto alias rudi tabuti
 age      : 23 y.o
 sex      : Male
 Religion : Moeslem
